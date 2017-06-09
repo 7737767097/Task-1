@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task 1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="videos">VIDEOS</string>
+    <string name="images">IMAGES</string>
+    <string name="milestone">MILESTONE</string>
+</resources>
